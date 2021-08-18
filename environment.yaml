@@ -33,6 +33,7 @@ dependencies:
   - entrypoints=0.3
   - et_xmlfile=1.1.0
   - eventlet=0.31.1
+  - ftfy=5.8
   - greenlet=1.1.1
   - icc_rt=2019.0.0
   - idna=2.10
@@ -140,4 +141,3 @@ dependencies:
   - zeromq=4.3.4
   - zipp=3.5.0
   - zlib=1.2.11
-prefix: C:\tools\Anaconda3\envs\capstone
