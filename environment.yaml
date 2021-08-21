@@ -37,6 +37,7 @@ dependencies:
   - greenlet=1.1.1
   - icc_rt=2019.0.0
   - idna=2.10
+  - imbalanced-learn=0.8.0
   - importlib-metadata=3.10.0
   - importlib_metadata=3.10.0
   - intel-openmp=2021.3.0
